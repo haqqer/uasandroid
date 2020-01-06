@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856100662737",
+    "firebase_url": "https://njajal-firebase.firebaseio.com",
+    "project_id": "njajal-firebase",
+    "storage_bucket": "njajal-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856100662737:android:82bb0adefbae2c676f44f0",
+        "android_client_info": {
+          "package_name": "com.haqqer.uasandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856100662737-90q1sm86ek0v5er9riqq1a74csaipv4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfyhzdr7xZpBJmvw_HWC45KnGi3kzumfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856100662737-90q1sm86ek0v5er9riqq1a74csaipv4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
